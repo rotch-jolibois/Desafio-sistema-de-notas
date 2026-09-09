@@ -1,8 +1,5 @@
 import java.util.ArrayList;
 
-public class Escola {
-    String nome;
-    ArrayList<Aluno> alunos;
 
     public void mostrarAlunos(){
         for (Aluno al : alunos){
